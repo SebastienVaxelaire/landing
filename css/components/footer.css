@@ -1,0 +1,23 @@
+.footer {
+  background-color: rgb(57, 57, 57);
+  padding:60px;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.footer a {
+  color: rgb(4, 167, 88);
+  font-size: 32px;
+}
+
+.footer p {
+  color: white;
+}
+
+.footer a:hover {
+  color: white;
+}
+
+.fas {
+  color: red
+}
